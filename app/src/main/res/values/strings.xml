@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Telkom</string>
+    <string name="waiting" translatable="false">Silakan tunggu.</string>
+    <string name="waiting_download" translatable="false">Mengunduh data. Silakan tunggu.</string>
+
+    <string name="waiting_login" translatable="false">Sedang login. Silakan tunggu.</string>
+    <string name="no_internet" translatable="false">Anda harus terhubung dengan internet untuk mengakses fitur ini.</string>
+    <string name="internal_server_error" translatable="false">Terjadi kesalahan pada jaringan.</string>
+    <string name="empty">No data</string>
+
+</resources>
